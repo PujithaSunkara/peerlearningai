@@ -113,7 +113,7 @@ export function RegisterPage() {
             Login
           </Link>
           <span className="py-2 text-center text-xs font-semibold bg-white text-slate-900 rounded-md shadow-xs">
-            Register (with OTP)
+            Register
           </span>
         </div>
 
