@@ -1,0 +1,6 @@
+{
+  "name": "PeerConnect AI",
+  "description": "AI-powered peer-to-peer learning platform connecting students for doubt resolution, skill assessment, real-time mentoring, and progress tracking.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
